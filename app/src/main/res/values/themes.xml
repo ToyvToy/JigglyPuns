@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.JigglyPuns" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.JigglyPuns" parent="Base.Theme.JigglyPuns" />
+</resources>
