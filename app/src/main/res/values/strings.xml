@@ -3,4 +3,9 @@
     <string name="welcome_to_jigglypuns">Welcome To JigglyPuns</string>
     <string name="please_enter_your_name">Please enter your name</string>
     <string name="name">Name</string>
+    <string name="jigglypuns_results">JigglyPuns Results</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="image">image</string>
+    <string name="username">Username</string>
+    <string name="finish">FINISH</string>
 </resources>
